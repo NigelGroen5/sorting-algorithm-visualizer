@@ -1,2 +1,2 @@
 # sorting-algorithm-visualizer
-Uploaded project from 2023-2024.
+This is a project I made in 2023-2024 which visualizes some popular sorting algorithms using Pygame.
